@@ -47,7 +47,7 @@ The system can read up to **4 analog channels (A0–A3)**, supports both **direc
 1️⃣ Big Digital Number  
 2️⃣ Bar Graph  
 3️⃣ Needle-Style Analog Scale  
-4️⃣ Multi-Channel Mode (future)  
+4️⃣ Multi-Channel Mode
 
 ## 📚 Required Libraries  
 
@@ -58,8 +58,7 @@ Install via Arduino IDE Library Manager:
 
 ## 🚀 Future Improvements  
 
-- 🔘 Mode toggle via button → switch between **Digital, Bar Graph, Needle, Multi-channel**  
-- 📊 Multi-channel OLED display (A0–A3 combined)  
+- 🔘 Mode toggle via button → switch between **Digital, Bar Graph, Needle, Multi-channel**   
 - 🌐 WiFi/Bluetooth integration → live data logging  
 - 🔋 Battery status indicator & auto-ranging  
 
